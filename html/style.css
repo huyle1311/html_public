@@ -1,0 +1,13 @@
+body {
+  font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+thead {
+  color: red;
+}
+tbody {
+  color: aqua;
+}
+tfoot {
+  color: yellowgreen;
+}
